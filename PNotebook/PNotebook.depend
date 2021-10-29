@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620867332 source:/home/gri/Documents/Programming/Cpp/Notebook/PNotebook/main.cpp
+	<iostream>
+	"main.hpp"
+
+1620861040 source:/home/gri/Documents/Programming/Cpp/Notebook/PNotebook/src/PNotebook.cpp
+	"PNotebook.h"
+	<cstdio>
+
+1620865817 /home/gri/Documents/Programming/Cpp/Notebook/PNotebook/include/PNotebook.h
+
+1620867801 /home/gri/Documents/Programming/Cpp/Notebook/PNotebook/include/main.hpp
+	"PNotebook.h"
+	<vector>
+
